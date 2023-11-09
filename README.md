@@ -23,3 +23,6 @@ git checkout -b branchName
 
 <!-- switching branch -->
 git setup name_of_existing_branch
+
+# namingConventions
+## BEM (Block Element Modifier/Method/Methodology) appropach
